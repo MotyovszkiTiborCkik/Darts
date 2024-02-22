@@ -1,0 +1,45 @@
+body{
+    color: darkblue;
+}
+#Brit{
+    width: 70%;
+    text-align: center;
+    margin-left: 15%;
+    margin-right: 15%;
+    border: 3px solid darkgreen;
+    padding: 5px;
+    border-radius: 15px;
+}
+.sorkizárt{
+    text-align: justify;
+}
+img{
+    width: 100px;
+    margin: 10px;
+}
+#table2{
+    width: 60%;
+    background-color: beige;
+    margin: auto;
+    box-shadow: 0 0 15px rgb(137, 137, 184);
+}
+div{
+    background-color: lightblue;
+    padding:20px;
+    margin: 3%;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px rgb(100, 100, 180);
+}h2{
+    color: blue;
+    background-color:aliceblue;
+    text-shadow: 0 0 3px blue;
+    text-align: center;
+
+}
+td{
+    padding-left: 10px;
+}
+#table1{
+    width: 60%;
+    margin:auto;
+}
